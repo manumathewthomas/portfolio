@@ -26,13 +26,13 @@ social:
     link: https://github.com/manumathewthomas
 education:
   courses:
-    - course: PhD in Computational Media
+    - course: PhD in Computational Media (2018-Present)
       institution: University of California, Santa Cruz
       year: ""
-    - course: MS in Computer Science
+    - course: MS in Computer Science (2015-2018)
       institution: University of Illinois at Chicago
       year: ""
-    - course: BTech in Computer Science
+    - course: BTech in Computer Science (2008-2012)
       institution: Cochin University of Science and Technology
       year: ""
 email: "manumathewthomas@gmail.com"
