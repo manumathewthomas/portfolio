@@ -1,7 +1,7 @@
 ---
 title: Manu Mathew Thomas
 role: ""
-avatar_filename: dp.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of California, Santa Cruz
     url: https://www.ucsc.edu/
@@ -35,7 +35,7 @@ education:
     - course: BTech in Computer Science
       institution: Cochin University of Science and Technology
       year: ""
-email: ""
+email: "manumathewthomas@gmail.com"
 user_groups:
   - Researchers
   - Visitors
