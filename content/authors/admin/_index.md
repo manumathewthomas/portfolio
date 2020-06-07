@@ -33,7 +33,7 @@ education:
       institution: University of Illinois at Chicago
       year: ""
     - course: BTech in Computer Science
-      institution: Cochin University of Technology
+      institution: Cochin University of Science and Technology
       year: ""
 email: ""
 user_groups:
