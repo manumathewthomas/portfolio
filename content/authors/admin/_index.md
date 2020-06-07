@@ -3,30 +3,27 @@ title: Manu Mathew Thomas
 role: Professor of Artificial Intelligence
 avatar_filename: dp.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of California, Santa Cruz
+    url: https://www.ucsc.edu/
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Computer Graphics, Machine Learning,
+  Visualization
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Graphics
+  - Machine Learning
+  - Visualization
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/mt_manu
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/manumathewthomas/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/manumathewthomas
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -43,7 +40,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a PhD student in the Computational Media department at the University of California at Santa Cruz. I'm also a part of the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/news.php) supervised by Professor [Angus Forbes](https://creativecoding.soe.ucsc.edu/angus/). My research focuses on real-time graphics and machine learning. Recent advances have inspired me to explore AI-assisted techniques for real-time graphics. I aim to solve various rendering problems with deep learning solutions optimized for high performance.
