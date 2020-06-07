@@ -1,6 +1,7 @@
 ---
 title: Manu Mathew Thomas
-role: Professor of Artificial Intelligence
+role: Graphics PhD researcher at UCSC Computational Media, interested in ML for
+  Rendering, previously intern at Intel Advanced Rendering Research
 avatar_filename: dp.jpg
 organizations:
   - name: University of California, Santa Cruz
@@ -40,4 +41,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm a PhD student in the Computational Media department at the University of California at Santa Cruz. I'm also a part of the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/news.php) supervised by Professor [Angus Forbes](https://creativecoding.soe.ucsc.edu/angus/). My research focuses on real-time graphics and machine learning. Recent advances have inspired me to explore AI-assisted techniques for real-time graphics. I aim to solve various rendering problems with deep learning solutions optimized for high performance.
+I'm a PhD student in the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/) at the University of California at Santa Cruz.  My research focuses on solving various rendering problems with deep learning solutions optimized for high performance. Feel free contact me via email: manumathewthomas (at) gmail (dot) com
