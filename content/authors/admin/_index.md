@@ -26,7 +26,7 @@ social:
     link: https://github.com/manumathewthomas
 education:
   courses:
-    - course: PhD in Computational Media (2018-Present)
+    - course: PhD in Computational Media (2018-)
       institution: University of California, Santa Cruz
       year: ""
     - course: MS in Computer Science (2015-2018)
