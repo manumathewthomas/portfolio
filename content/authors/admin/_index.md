@@ -1,7 +1,6 @@
 ---
 title: Manu Mathew Thomas
-role: Graphics PhD researcher at UCSC Computational Media, interested in ML for
-  Rendering, previously intern at Intel Advanced Rendering Research
+role: ""
 avatar_filename: dp.jpg
 organizations:
   - name: University of California, Santa Cruz
@@ -27,18 +26,18 @@ social:
     link: https://github.com/manumathewthomas
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computational Media
+      institution: University of California, Santa Cruz
+      year: ""
+    - course: MS in Computer Science
+      institution: University of Illinois at Chicago
+      year: ""
+    - course: BTech in Computer Science
+      institution: Cochin University of Technology
+      year: ""
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-I'm a PhD student in the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/) at the University of California at Santa Cruz.  My research focuses on solving various rendering problems with deep learning solutions optimized for high performance. Feel free contact me via email: manumathewthomas (at) gmail (dot) com
+I'm a PhD student in the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/) at the University of California at Santa Cruz, advised by [Angus Forbes](angusforbes.com).  My research focuses on solving various rendering problems with deep learning solutions optimized for high performance. Feel free contact me via email: manumathewthomas (at) gmail (dot) com
