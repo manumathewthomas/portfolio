@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Procedural Animation"
+title: "Learning to Fly"
 summary: "Teaching a plane to fly, avoid obstace and reach the destination using Genetic Algorithm"
 authors: []
 tags: []
