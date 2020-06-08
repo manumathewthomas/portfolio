@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Chat With Joey"
-summary: "A chatbot designed to mimic the personality of Joey, a character from the tv-show "F.R.I.E.N.D.S" "
+summary: "A chatbot designed to mimic the personality of Joey, a character from the tv-show F.R.I.E.N.D.S"
 authors: []
 tags: []
 categories: []
