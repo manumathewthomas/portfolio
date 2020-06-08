@@ -6,7 +6,7 @@ summary: "A novel machine learning technique for approximating global illuminati
 authors: [Manu Mathew Thomas, Angus Forbes]
 tags: []
 categories: []
-date: 2020-06-07T23:08:22-07:00
+date: 2020-06-06T23:08:22-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
