@@ -39,6 +39,7 @@ url_app: "http://www.artidontlike.com/"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+http://www.artidontlike.com/
 
 This work is motivated by a concern about current recommender system technology and
 personalization algorithms. As people spend a considerable amount of time on the
