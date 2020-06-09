@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Art I Dont_Like"
+title: "Art I Don't Like"
 summary: "A new “anti-recommender” system that provides content that is aesthetically related in terms of low-level features but challenges the implied conceptual frameworks indicated by initial user selections. "
 authors: []
 tags: []
