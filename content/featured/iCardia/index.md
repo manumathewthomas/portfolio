@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "This article presents the main features and components of iCardia - an innovative mHealth platform designed to support remote monitoring and health coaching of cardiac rehabilitation (CR) patients, through Fitbit wearable sensor devices, smartphones, and personalized SMS textmessages. The design and development of iCardia were based on an iterative, user-centered design process and an open-service architecture to ensure rapid scalability and adherence to evidence-based guidelines for easier transition into clinical practice. iCardia has the potential to enable a paradigm shift towards a collaborative CR environment that utilizes mHealth technologies to engage patients to more effectively self-manage their cardiovascular disease."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This article presents the main features and components of iCardia - an innovative mHealth platform designed to support remote monitoring and health coaching of cardiac rehabilitation (CR) patients, through Fitbit wearable sensor devices, smartphones, and personalized SMS textmessages."
 
 tags: []
 categories: []
