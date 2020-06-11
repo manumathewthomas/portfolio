@@ -26,7 +26,7 @@ summary: "This article presents the main features and components of iCardia - an
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
