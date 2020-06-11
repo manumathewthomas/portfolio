@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Development of an innovative mHealth platform for remote physical activity monitoring and health coaching of cardiac rehabilitation patients"
-authors: []
+authors: [Spyros Kitsiou, Manu Thomas, G. Elisabeta Marai, Nicos Maglaveras, George Kondos, Ross Arena, Ben Gerber]
 date: 2020-06-08T01:31:53-07:00
 doi: ""
 
