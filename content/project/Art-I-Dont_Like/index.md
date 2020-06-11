@@ -3,7 +3,7 @@
 
 title: "Art I Don't Like"
 summary: "A new “anti-recommender” system that provides content that is aesthetically related in terms of low-level features but challenges the implied conceptual frameworks indicated by initial user selections. "
-authors: []
+authors: [Manu Mathew Thomas, Sarah Frost]
 tags: []
 categories: []
 date: 2020-06-08T00:49:37-07:00

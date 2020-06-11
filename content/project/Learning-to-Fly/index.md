@@ -3,7 +3,7 @@
 
 title: "Learning to Fly"
 summary: "Teaching a plane to fly, avoid obstace and reach the destination using Genetic Algorithm"
-authors: []
+authors: [Manu Mathew Thomas]
 tags: []
 categories: []
 date: 2020-06-08T01:07:13-07:00

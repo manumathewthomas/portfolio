@@ -3,7 +3,7 @@
 
 title: "Chat With Joey"
 summary: "A chatbot designed to mimic the personality of Joey, a character from the tv-show F.R.I.E.N.D.S"
-authors: []
+authors: [Manu Mathew Thomas, Ridhi Rustagi, Abeer Alsari]
 tags: []
 categories: []
 date: 2020-06-08T00:15:50-07:00
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/manumathewthomas/Chat-with-Joey"
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=MbjKl4fUdcI"
