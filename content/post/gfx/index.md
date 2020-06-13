@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New GFX series coming soon"
+title: "New GFX series coming soon!"
 subtitle: ""
 summary: ""
 authors: [Manu Mathew Thomas]

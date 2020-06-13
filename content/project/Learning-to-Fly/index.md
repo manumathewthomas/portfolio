@@ -39,3 +39,5 @@ url_video: "https://www.youtube.com/watch?v=_mvx9lDxUL8"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Animations often invoves keyframing where an artist defines how an object moves or behaves. Keyframe animations is determinstic and looks robotic when all NPC do the same actions. There are other ways to obtain natural movements in animations. In this project, we built a proof of concept for animating a plane by defining an action space and letting it figure out which action or combination of actions to pick based on the enviornment. The learning process is based on Genectic Algorithm (GA). A fitness function is defined for all goals based on which they try to evolve and mutate the velocity vectors over several generations. First, the airplane has to learn to fight againt gravitaional pull and stay in the air. Next, it will learn how to avoid obstacles to reach the final destination.
