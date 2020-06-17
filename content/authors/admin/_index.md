@@ -40,4 +40,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm a PhD student in the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/) at the University of California at Santa Cruz, advised by [Angus Forbes](angusforbes.com).  My research focuses on solving various 3D rendering problems with deep learning solutions optimized for high performance. Feel free contact me via email: manumathewthomas (at) gmail (dot) com
+I'm a PhD student in the [Creative Coding Lab](https://creativecoding.soe.ucsc.edu/) at the University of California at Santa Cruz, advised by [Prof. Angus Forbes](https://creativecoding.soe.ucsc.edu/angus/).  My research focuses on solving various 3D rendering problems with deep learning solutions optimized for high performance. Feel free contact me via email: manumathewthomas (at) gmail (dot) com
