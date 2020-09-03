@@ -3,7 +3,7 @@
 
 title: "Learning Patterns in Sample Distributions for Monte Carlo Variance Reduction [2019]"
 authors: [Oskar Elek Manu M. Thomas Angus Forbes]
-date: 2020-06-11T15:35:59-07:00
+date: 2020-06-11T15:57:12-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network [2017]"
 authors: [Manu Thomas, Angus G Forbes]
-date: 2020-06-11T15:54:16-07:00
+date: 2020-06-11T15:35:59-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
