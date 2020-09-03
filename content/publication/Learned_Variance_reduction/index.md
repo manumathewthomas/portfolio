@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Echo: A Large Display Interactive Visualization of ICU Data for Effective Care Handoffs"
-authors: [Manu Thomas, T. Kanampallil, J. Abraham, GE Marai]
+title: "Learning Patterns in Sample Distributions for Monte Carlo Variance Reduction [2019]"
+authors: [Oskar Elek Manu M. Thomas Angus Forbes]
 date: 2020-06-11T15:35:59-07:00
 doi: ""
 
@@ -13,16 +13,16 @@ publishDate: 2020-06-11T15:35:59-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 8th IEEE Workshop on Visual Analytics in Healthcare VAHC’17"
+publication: ""
 publication_short: ""
 
-abstract: "One of the significant challenges of care transitions in Intensive Care Units (ICUs) is the lack of effective support tools for outgoing clinicians to find, filter, organize, and annotate information that can be effectively handed off to the incoming team. We present a large display interactive multivariate visual approach, aimed towards supporting clinicians during the transition of care. We first provide a characterization of the problem domain in terms of data and tasks, based on an observation session at the University of Illinois Hospital, and on interviews with several biomedical researchers and ICU clinicians. Informed by this experience, we design a scalable, interactive visual approach that supports both overview and detail views of ICU patient data, as well as anomaly detection, comparison, and annotation of the data. We demonstrate a large-display implementation of the visualization on an existing anonymized ICU dataset. Feedback from domain experts indicates this approach successfully meets the requirements of effective care transitions."
+abstract: "This paper investigates a novel a-posteriori variance reduction approach in Monte Carlo image synthesis. Unlike most established methods based on lateral filtering in the image space, our proposition is to produce the best possible estimate for each pixel separately, from all the samples drawn for it. To enable this, we systematically study the per-pixel sample distributions for diverse scene configurations. Noting that these are too complex to be characterized by standard statistical distributions (e.g. Gaussians), we identify patterns recurring in them and exploit those for training a variance-reduction model based on neural nets. In result, we obtain numerically better estimates compared to simple averaging of samples. This method is compatible with existing image-space denoising methods, as the improved estimates of our model can be used for further processing. We conclude by discussing how the proposed model could in future be extended for fully progressive rendering with constant memory footprint and scene-sensitive output."
 
 # Summary. An optional shortened abstract.
-summary: " We design a scalable, interactive visual approach that supports both overview and detail views of ICU patient data, as well as anomaly detection, comparison, and annotation of the data. "
+summary: "We visualize -- and use artificial neural networks to learn -- the shapes of statistical sample distributions in Monte Carlo rendering, and apply that knowledge to produce improved (denoised) images from small sample sets."
 
 tags: []
 categories: []
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860975/"
+url_pdf: "https://arxiv.org/pdf/1906.00124.pdf"
 url_code:
 url_dataset:
 url_poster:

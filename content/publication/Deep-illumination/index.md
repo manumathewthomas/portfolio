@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network"
+title: "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network [2017]"
 authors: [Manu Thomas, Angus G Forbes]
 date: 2020-06-11T15:54:16-07:00
 doi: ""

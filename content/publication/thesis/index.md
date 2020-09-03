@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exploring Deep Learning Techniques for Real-time Graphics (Master's Thesis)"
+title: "Exploring Deep Learning Techniques for Real-time Graphics (Master's Thesis) [2018]"
 authors: [Manu Thomas]
 date: 2020-06-11T15:57:12-07:00
 doi: ""
