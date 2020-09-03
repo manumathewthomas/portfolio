@@ -3,7 +3,7 @@
 
 title: "Exploring Deep Learning Techniques for Real-time Graphics (Master's Thesis) [2018]"
 authors: [Manu Thomas]
-date: 2020-06-11T15:57:12-07:00
+date: 2018-05-11T15:57:12-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
