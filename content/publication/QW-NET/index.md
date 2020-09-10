@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: " A Reduced-Precision Network for Image Reconstruction [2020]"
+title: "A Reduced-Precision Network for Image Reconstruction [2020]"
 authors: [Manu Mathew Thomas, Karthik Vaidyanathan, Gabor Liktor, and Angus G. Forbes]
-date: 2020-12-11T15:57:12-05:00
+date: 2020-09-08T15:57:12-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-11T15:35:59-07:00
+publishDate: 2020-09-08T15:35:59-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
